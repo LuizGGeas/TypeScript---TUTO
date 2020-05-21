@@ -1,0 +1,7 @@
+{
+  "name": "vaquinha",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
